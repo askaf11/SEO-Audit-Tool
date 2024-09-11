@@ -14,6 +14,7 @@
   <li align="justify">Display keyword cloud, social media links, and more</li>
 </ul>
 <br>
+<br>
 <h2 align="justify">This project requires Python 3.9+ and Python libraries</h2>
 
 **Download Python**:
